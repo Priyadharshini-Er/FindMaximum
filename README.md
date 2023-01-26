@@ -12,7 +12,6 @@ Use the sort() function or max() function or use the for loop to find the maximu
 ### STEP 3:
 Return the maximum value
 ## Program:
-
 i)	# To find the maximum of marks using the list method sort.
 ```Python
 ''' 
@@ -52,7 +51,6 @@ def max_marks(list1):
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
-
 ## Output:
 ![](./max1.png)
 ![](./max2.png)
